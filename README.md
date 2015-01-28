@@ -21,6 +21,6 @@ list of templates that I created.
    - city.
    - random.
 
-Email: kevin@slabbekoorn.org and jeffrey@slabbekoorn.org
-website: slabbekoorn.org
+Email: jeffrey@slabbekoorn.org
+website: slabbekoorn.org/jeffrey
 
