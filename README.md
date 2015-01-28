@@ -1,7 +1,7 @@
 ♦ jefandkev - intro ♦
 
-designers of these templates: Kevin and Jeffrey.
-and take a moment to visit slabbekoorn.org.
+designers of these templates: Jeffrey.
+and take a moment to visit slabbekoorn.org/jeffrey.
 
 Thank you.
 
