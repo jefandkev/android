@@ -9,6 +9,8 @@
 
   <name>Jeffrey.cf</name>
 
+  <icon src="icon.png" platform="android" density="ldpi" />
+
   <description>
       Download free GBA and GBC roms
   </description>
